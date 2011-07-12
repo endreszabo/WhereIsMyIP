@@ -1,0 +1,2 @@
+A tool that can be used to check routing for a particular ip/subnet on several hosts at the same time.
+It's useful when your networks are so complex you don't know what subnet goes where. Under development, ymmv.
